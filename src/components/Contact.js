@@ -5,12 +5,10 @@ const Contact = () => {
   return (
     <Wrapper>
       <div className='section-center'>
-        <h3>Join our newsletter and get 20% off</h3>
+        <h3>Join our newsletter and get 50% off</h3>
         <div className='content'>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
-            veniam repudiandae vel ab id, fuga praesentium nobis natus ipsam
-            vero?
+            Subscribe to the newsletter and get 50 % on all packages
           </p>
           <form
             className='contact-form'

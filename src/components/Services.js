@@ -8,13 +8,11 @@ const Services = () => {
       <div className='section-center'>
         <article className='header'>
           <h3>
-            custom furniture <br />
-            built only for you
+            custom products builded only for you
           </h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque
-            quisquam saepe id reiciendis sunt, repudiandae libero amet rem quia
-            quod?
+            Number of products builded for the customers  to manage easily
+            
           </p>
         </article>
         <div className='services-center'>

@@ -9,20 +9,19 @@ const Hero = () => {
     <Wrapper className='section-center'>
       <article className='content'>
         <h1>
-          design your <br />
-          comfort zone
+          Choose products of different types <br />
+      
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti iure
-          quasi odit tenetur unde officiis repudiandae quod deserunt quia eum?
+          Many types of furnitures at single place
         </p>
         <Link to='/products' className='btn hero-btn'>
-          shop now
+          Shop now
         </Link>
       </article>
       <article className='img-container'>
         <img src={heroBcg} alt='nice table' className='main-img' />
-        <img src={heroBcg2} alt='person working' className='accent-img' />
+        
       </article>
     </Wrapper>
   )
@@ -40,7 +39,7 @@ const Wrapper = styled.section`
     line-height: 2;
     max-width: 45em;
     margin-bottom: 2rem;
-    color: var(--clr-grey-5);
+    color: var(--clr-grey-4);
     font-size: 1rem;
   }
   @media (min-width: 992px) {
