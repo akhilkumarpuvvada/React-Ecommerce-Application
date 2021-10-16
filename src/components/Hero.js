@@ -16,7 +16,9 @@ const Hero = () => {
           Many types of furnitures at single place
         </p>
         <Link to='/products' className='btn hero-btn'>
-          Shop now
+          Shop now//
+          
+          Puvvada Naga Venkata Akhil Kumar
         </Link>
       </article>
       <article className='img-container'>
